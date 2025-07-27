@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import './App.css'
 import Accordion from './components/Accordion'
 
@@ -49,7 +48,7 @@ function App() {
         "GitHub Copilot is an AI-powered code completion tool developed by GitHub and OpenAI. It suggests entire lines or blocks of code as you type, based on the context of your current file and project.",
     },
     {
-      title: "Is GitHub free?",
+      title: "Is GitHub free????????",
       content:
         "GitHub offers free plans for individuals and teams, which include unlimited public and private repositories. Paid plans offer more features such as advanced CI minutes, storage, and access controls.",
     }
